@@ -240,9 +240,8 @@ pre {
 <section class='container'>
           <hgroup>
             <h1>HELOO MY NAME EDO APRILIANTO</h1>
+            <h1>IM JUST MAN</h1>
           </hgroup>
-
-
         
 </section>
 
